@@ -12,7 +12,7 @@ rnorm(n, mean = 0, sd = 1)
  - **q**norm gives the quantile function. *what value does x percent of the population fall between?*
  - **r**norm generates random deviates. 
 
-[Examples](http://statweb.stanford.edu/~susan/courses/s141/Rlab2sol/)
+ - Some [examples](http://statweb.stanford.edu/~susan/courses/s141/Rlab2sol/)
 ---
 ### PDF
 
