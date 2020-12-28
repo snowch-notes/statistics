@@ -4,7 +4,7 @@
 - if alpha is 0.05, then 5% change of incorrectly rejecting the null hypothesis
 - Shapiro-Wilk (normality test) - null hypothesis is that the population is normally distributed
 
-### Example
+### Paired Samples T-Test Example
 
 In the analysis below:
 
