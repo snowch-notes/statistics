@@ -3,6 +3,7 @@
 - a **low p-value** can give statistical evidence to **support rejecting the null hypothesis** (however, does not prove the alt hyp is true)
 - if alpha is 0.05, then 5% change of incorrectly rejecting the null hypothesis
 - Shapiro-Wilk (normality test) - null hypothesis is that the population is normally distributed
+  - If data is not normal (p < 0.05) Mann-Whitney test can be use as non-parametric equivalent of Student test.
 
 ### Paired Samples T-Test Example
 
