@@ -6,7 +6,7 @@
   - If data is not normal (p < 0.05) these are non-parametric equivalents of Student test:
     - Mann-Whitney test (independent groups)
     - Wilcoxon signed rank test (related groups)
-- Effect size benchmarks **small (d = 0.2)**, **medium (d = 0.5)**, and **large (d = 0.8)**
+- Effect size benchmarks **none (d < 0)**, **small (d = 0.2)**, **medium (d = 0.5)**, and **large (d = 0.8)**
 
 ### Paired Samples T-Test Example
 
