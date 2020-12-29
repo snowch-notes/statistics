@@ -6,7 +6,9 @@
   - If data is not normal (p < 0.05) these are non-parametric equivalents of Student test:
     - Mann-Whitney test (independent groups)
     - Wilcoxon signed rank test (related groups)
-- Effect size benchmarks **none (d < 0)**, **small (d = 0.2)**, **medium (d = 0.5)**, and **large (d = 0.8)**
+- Effect size
+  - benchmarks: **small (d = 0.2)**, **medium (d = 0.5)**, and **large (d = 0.8)**
+  - is measured in terms of the number of standard deviations the means differ by
 
 ### Paired Samples T-Test Example
 
@@ -14,6 +16,7 @@ In the analysis below:
 
  - the null hypothesis (moon vs other behavoir is the same) - **p < 0.001** so we reject the null hypothesis
  - the Shapiro-Wilk null hypothesis is that the data is normally distributed - **p = 0.148** so we do not reject the null hypothesis
+ - the effect size is large 
 
 ![paired-t-test](./paired-t-test.png)
 
