@@ -22,4 +22,9 @@ In the analysis below:
 
 - See [also](https://stats.stackexchange.com/questions/502637/p-value-for-shapiro-wilk-is-high-but-data-doesnt-appear-normal)
 
+----
 
+Two other ways to verify significance:
+
+— CI interval should not contain zero
+  - If the confidence interval (with your chosen level of confidence) includes , that implies you think  is a reasonable possibility for the true value of the difference. In general, by 'significant' people usually mean that they no longer believe the null hypothesis () is a reasonable possibility. Note that if a  CI doesn't include , the -value would be , which is the conventional cutoff for 'significance' [source] (https://stats.stackexchange.com/a/120952/48448) 
