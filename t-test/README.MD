@@ -1,4 +1,4 @@
-### P-value
+## P-value notes
 
 - a **low p-value** can give statistical evidence to **support rejecting the null hypothesis** (however, does not prove the alt hyp is true)
 - if alpha is 0.05, then 5% change of incorrectly rejecting the null hypothesis
@@ -10,7 +10,7 @@
   - benchmarks: **small (d = 0.2)**, **medium (d = 0.5)**, and **large (d = 0.8)**
   - is measured in terms of the number of standard deviations the means differ by
 
-### Paired Samples T-Test Example
+## Paired Samples T-Test Example
 
 In the analysis below:
 
