@@ -40,7 +40,7 @@ qt(0.05/2, 14)
 [1] 2.144787
 ```
 
-Test is statistically significant ...
+Test is statistically significant if experiment `t` is greater than critical value:
 
 ```
 > abs(-6.452) > abs(qt(0.05/2,14))
