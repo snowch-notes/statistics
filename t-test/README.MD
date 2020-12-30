@@ -28,3 +28,6 @@ Two other ways to verify significance:
 
 — CI interval should not contain zero
   - If the confidence interval (with your chosen level of confidence) includes zero, that implies you think zero is a reasonable possibility for the true value of the difference. In general, by 'significant' people usually mean that they no longer believe the null hypothesis (zero) is a reasonable possibility. Note that if a  CI doesn't include zero, the -value would be <.05, which is the conventional cutoff for 'significance' [source](https://stats.stackexchange.com/a/120952/48448) 
+
+
+![paired-t-test-with-ci](./paired-t-test-with-ci.png)
