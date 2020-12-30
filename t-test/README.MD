@@ -36,6 +36,13 @@ In the analysis below:
 
 To find the critical t-value for a 95% confidence interval with 14 degrees freedom:
 ```
-qt(1-.05/2, 14)
+qt(0.05/2, 14)
 [1] 2.144787
+```
+
+Test is statistically significant ...
+
+```
+> abs(-6.452) > abs(qt(0.05/2,14))
+[1] TRUE
 ```
