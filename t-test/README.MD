@@ -34,7 +34,7 @@ In the analysis below:
 
 #### Critical Value
 
-To find the critical t-value for a 95% confidence interval with 25 degrees freedom:
+To find the critical t-value for a 95% confidence interval with 14 degrees freedom:
 ```
 qt(1-.05/2, 14)
 [1] 2.144787
