@@ -46,3 +46,7 @@ Test is statistically significant if experiment `t` is greater than critical val
 > abs(-6.452) > abs(qt(0.05/2,14))
 [1] TRUE
 ```
+
+### Report
+
+[APA Style Report](./apa-style-report.png)
