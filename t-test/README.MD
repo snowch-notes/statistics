@@ -49,4 +49,4 @@ Test is statistically significant if experiment `t` is greater than critical val
 
 ### Report
 
-[APA Style Report](./apa-style-report.png)
+APA style report ![example](./apa_style_report.png)
